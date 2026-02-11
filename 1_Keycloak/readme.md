@@ -42,7 +42,7 @@ Dans une architecture distribuée, l’authentification et l’autorisation sont
 
 ## 🛠 Travail demandé
 
-1. Démarrer Keycloak avec **Docker** (via `docker-compose`)
+1. Démarrer Keycloak avec **Docker** (via `docker-compose`). Trouvez de l'aide à cette adresse : https://medium.com/@fingervinicius/easy-running-keycloak-with-docker-compose-b0d7a4ee2358
 2. Accéder à l’interface d’administration
 3. Créer les éléments suivants :
 
