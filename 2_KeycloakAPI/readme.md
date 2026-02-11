@@ -117,9 +117,9 @@ Faire communiquer la SPA avec une API protégée par JWT.
 ## 📚 Contexte
 
 Une SPA consomme des APIs sécurisées en envoyant le token JWT dans les requêtes HTTP via le header :
-'''
+```
 Authorization: Bearer <token>
-'''
+```
 
 ---
 
