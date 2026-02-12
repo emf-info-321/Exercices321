@@ -30,7 +30,7 @@ Travail individuel :
 
 ---
 
-## Étape 2 — Mise en commun par groupe de 3 (10–15 minutes)
+## Étape 2 — Mise en commun par groupe de 3 (10 minutes)
 
 Les apprentis se mettent en groupe de 3.
 
