@@ -58,21 +58,32 @@ Objectif :
 
 ## Étape 3 — Regroupement par scénario (15–20 minutes)
 
-Les apprentis se regroupent maintenant avec ceux qui ont **le même scénario**.
+Les apprentis se regroupent avec ceux qui ont **le même scénario**.
 
-Objectif :
+### Objectifs
 
-- Comparer leurs propositions
-- Construire une architecture commune améliorée
-- Préparer une présentation synthétique
+- Comparer leurs propositions initiales  
+- Construire une architecture commune améliorée  
+- Choisir un **mode de déploiement adapté**
+- Préparer une présentation synthétique  
 
-Ils doivent produire :
+### Travail demandé
 
-- Un schéma simple
-- Les composants clés
-- Les arguments principaux
-- Les risques identifiés
-- Pourquoi cette architecture est la plus adaptée
+Le groupe doit produire :
+
+- Un **schéma d’architecture clair**
+- Les **composants clés**
+- Les **arguments principaux**
+- Les **risques identifiés**
+- Le **mode de déploiement choisi** (On-prem, IaaS, PaaS, SaaS ou hybride)
+- Pour **chaque composant**, indiquer :
+  - Où il est déployé (type de déploiement choisi)
+  - S’il peut être déployé automatiquement (CI/CD, IaC, etc.)
+
+Le schéma doit clairement montrer :
+- Les flux entre composants
+- L’emplacement de déploiement de chaque élément
+- Les éléments automatisés
 
 ---
 
@@ -82,7 +93,9 @@ Chaque groupe (par scénario) présente :
 
 - Le contexte
 - L’architecture choisie
-- Les raisons de ce choix
+- Le mode de déploiement retenu
+- Où est déployé chaque composant
+- Les raisons de ces choix
 - Les points forts
 - Les limites ou risques
 
