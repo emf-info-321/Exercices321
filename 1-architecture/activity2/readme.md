@@ -65,7 +65,7 @@ Les apprentis se regroupent avec ceux qui ont **le même scénario**.
 - Comparer leurs propositions initiales  
 - Construire une architecture commune améliorée  
 - Choisir un **mode de déploiement adapté**
-- Préparer une présentation synthétique  
+- Préparer une présentation synthétique et la présenter devant la classe
 
 ### Travail demandé
 
@@ -85,21 +85,6 @@ Le schéma doit clairement montrer :
 - L’emplacement de déploiement de chaque élément
 - Les éléments automatisés
 
----
-
-## Étape 4 — Présentation finale
-
-Chaque groupe (par scénario) présente :
-
-- Le contexte
-- L’architecture choisie
-- Le mode de déploiement retenu
-- Où est déployé chaque composant
-- Les raisons de ces choix
-- Les points forts
-- Les limites ou risques
-
-Discussion collective après chaque présentation.
 
 ---
 
