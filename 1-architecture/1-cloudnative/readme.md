@@ -13,10 +13,9 @@
 
 ## 🕒 Durée
 
-15 minutes
+10 minutes
 
 - 5 min individuel  
-- 5 min en binôme  
 - 5 min discussion classe  
 
 ---
