@@ -51,7 +51,6 @@ Complétez le tableau :
 | Worker | | |
 | Base de données | | |
 | Stockage fichiers | | |
-| Load balancing | | |
 | Monitoring | | |
 
 ---
