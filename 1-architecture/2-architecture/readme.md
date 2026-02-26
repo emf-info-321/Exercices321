@@ -19,7 +19,7 @@ Cette activité a pour but de :
 
 Chaque apprenti reçoit **un scénario différent**.
 
-Travail individuel :
+Travail individuel, sans internet, avec la présentation ppt :
 
 - Identifier le type d’architecture le plus adapté
 - Proposer les composants principaux du système
